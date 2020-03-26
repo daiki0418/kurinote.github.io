@@ -62,3 +62,12 @@ section {
   align-items: center;
 }
 
+.header nav ul {
+  display: flex;
+  justify-xontent: space-between;
+  align-items: center;
+}
+
+.header nav ul li {
+  margin-right: 50px;
+}
