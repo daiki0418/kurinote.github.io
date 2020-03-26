@@ -52,5 +52,10 @@ section {
  }
 
 .header {
-  height: 
+  width: 100%;
 }
+
+header-nav {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
