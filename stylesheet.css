@@ -64,7 +64,7 @@ section {
 
 .header nav ul {
   display: flex;
-  justify-xontent: space-between;
+  justify-content: space-between;
   align-items: center;
 }
 
